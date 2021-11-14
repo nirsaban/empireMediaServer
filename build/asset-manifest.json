@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/empireMedia-/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/empireMedia-/static/js/main.d851e13c.chunk.js",
+    "main.js.map": "/empireMedia-/static/js/main.d851e13c.chunk.js.map",
+    "runtime-main.js": "/empireMedia-/static/js/runtime-main.e39832fa.js",
+    "runtime-main.js.map": "/empireMedia-/static/js/runtime-main.e39832fa.js.map",
+    "static/css/2.1cf03e63.chunk.css": "/empireMedia-/static/css/2.1cf03e63.chunk.css",
+    "static/js/2.9813f704.chunk.js": "/empireMedia-/static/js/2.9813f704.chunk.js",
+    "static/js/2.9813f704.chunk.js.map": "/empireMedia-/static/js/2.9813f704.chunk.js.map",
+    "static/js/3.5ea62795.chunk.js": "/empireMedia-/static/js/3.5ea62795.chunk.js",
+    "static/js/3.5ea62795.chunk.js.map": "/empireMedia-/static/js/3.5ea62795.chunk.js.map",
+    "index.html": "/empireMedia-/index.html",
+    "static/css/2.1cf03e63.chunk.css.map": "/empireMedia-/static/css/2.1cf03e63.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/empireMedia-/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9813f704.chunk.js.LICENSE.txt": "/empireMedia-/static/js/2.9813f704.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e39832fa.js",
+    "static/css/2.1cf03e63.chunk.css",
+    "static/js/2.9813f704.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d851e13c.chunk.js"
+  ]
+}
